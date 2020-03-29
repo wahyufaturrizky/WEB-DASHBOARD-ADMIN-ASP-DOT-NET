@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>dashboard_admin_asp_dot_net</RootNamespace>
+  </PropertyGroup>
+
+
+
+</Project>
